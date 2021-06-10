@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAYMzt33tnOkWW4tKvKkkjAwAAAAACAAAAAAAQZgAAAAEAACAAAACI/RWs6GuA0WxhGIcXIxf8rANLni7YVk8PvjX0Bces7QAAAAAOgAAAAAIAACAAAACrR/mVNKILqj39glMpk0rghVeWbDSsv5SJzB1Z+AMvJiAAAABM6a1mllH1X2YNahPH2D76KY6DLglAID/MwlWsmkHyJkAAAAC7H92Wx2/Yc7jHw2i1RA7c3EnF0BOftEWz9X5y7h+c/OFXSYUtxXWYlqbsrj040LDVyPMHLniTinRxVSM96Jk/</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.hardeap.ca/httpdocs</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
